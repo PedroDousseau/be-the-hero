@@ -9,11 +9,13 @@
 
 ## 📍 Built with
 - Frontend
-  - React Native
-  - Expo
+  - Web
+    - React
+  - Mobile
+    - React Native
+    - Expo
   <br>
 - Backend
   - Node
-  - React
 
 
