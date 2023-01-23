@@ -4,10 +4,10 @@
 <h4 align="center">App built to connect people who want to make monetary contributions to NGO's (non-governmental organizations)<h4>
 <br>
 <p align="center">
-  <a href="#built-with">Built with</a>
+  <a href="#-built-with">Built with</a>
 </p>
 
-## Built with
+## 📍 Built with
 - Frontend
   - React Native
   - Expo
